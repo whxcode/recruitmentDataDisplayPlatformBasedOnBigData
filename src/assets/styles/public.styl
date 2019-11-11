@@ -1,0 +1,17 @@
+$backGround = rgb(245,245,245)
+
+border_run(){
+  border-top: 3px solid transparent
+  border-right: 3px solid transparent
+  background: linear-gradient(white) padding-box,
+                repeating-linear-gradient(
+                  -45deg,rgb(15,153,213) 0,rgb(15,153,213) 25%,
+                  white 0, white 50%
+                ) 0 / .5rem .5rem
+  animation: 30s linear infinite run
+  @keyframes run {
+    to {
+      background-position: 100%
+    }
+  }
+}

@@ -1,0 +1,1809 @@
+{
+    "nodes": [
+      {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery10",
+        "size": 4.7252817
+      },
+      {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery9",
+        "size": 4.7252817
+      },
+      {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery8",
+        "size": 4.7252817
+      },
+      {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery7",
+        "size": 4.7252817
+      },     {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery6",
+        "size": 4.7252817
+      },
+      {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery5",
+        "size": 4.7252817
+      },     {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery4",
+        "size": 4.7252817
+      },
+      {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery3",
+        "size": 4.7252817
+      },     {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery2",
+        "size": 4.7252817
+      },
+      {
+        "color": "#4f19c7",
+        "label": "jquery",
+        "attributes": { },
+        "y": -404.26147,
+        "x": -739.36383,
+        "id": "jquery1",
+        "size": 4.7252817
+      }
+    ],
+    "edges": [
+        {
+            "sourceID": "jquery",
+            "attributes": {},
+            "targetID": "jsdom",
+            "size": 1
+        },
+        {
+            "sourceID": "jquery",
+            "attributes": {},
+            "targetID": "xmlhttprequest",
+            "size": 1
+        },
+        {
+            "sourceID": "jquery",
+            "attributes": {},
+            "targetID": "htmlparser",
+            "size": 1
+        },
+        {
+            "sourceID": "jquery",
+            "attributes": {},
+            "targetID": "contextify",
+            "size": 1
+        },
+        {
+            "sourceID": "backbone",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "faye",
+            "attributes": {},
+            "targetID": "faye-websocket",
+            "size": 1
+        },
+        {
+            "sourceID": "faye",
+            "attributes": {},
+            "targetID": "cookiejar",
+            "size": 1
+        },
+        {
+            "sourceID": "socket.io",
+            "attributes": {},
+            "targetID": "redis",
+            "size": 1
+        },
+        {
+            "sourceID": "socket.io",
+            "attributes": {},
+            "targetID": "socket.io-client",
+            "size": 1
+        },
+        {
+            "sourceID": "mongoose",
+            "attributes": {},
+            "targetID": "mongodb",
+            "size": 1
+        },
+        {
+            "sourceID": "mongoose",
+            "attributes": {},
+            "targetID": "hooks",
+            "size": 1
+        },
+        {
+            "sourceID": "mongoose",
+            "attributes": {},
+            "targetID": "ms",
+            "size": 1
+        },
+        {
+            "sourceID": "cheerio",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "cheerio",
+            "attributes": {},
+            "targetID": "htmlparser2",
+            "size": 1
+        },
+        {
+            "sourceID": "cheerio",
+            "attributes": {},
+            "targetID": "entities",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "connect",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "commander",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "debug",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "cookie",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "send",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "methods",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "buffer-crc32",
+            "size": 1
+        },
+        {
+            "sourceID": "express",
+            "attributes": {},
+            "targetID": "fresh",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "bytes",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "debug",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "qs",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "cookie",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "send",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "formidable",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "methods",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "buffer-crc32",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "fresh",
+            "size": 1
+        },
+        {
+            "sourceID": "connect",
+            "attributes": {},
+            "targetID": "pause",
+            "size": 1
+        },
+        {
+            "sourceID": "temp",
+            "attributes": {},
+            "targetID": "rimraf",
+            "size": 1
+        },
+        {
+            "sourceID": "request",
+            "attributes": {},
+            "targetID": "node-uuid",
+            "size": 1
+        },
+        {
+            "sourceID": "request",
+            "attributes": {},
+            "targetID": "mime",
+            "size": 1
+        },
+        {
+            "sourceID": "request",
+            "attributes": {},
+            "targetID": "qs",
+            "size": 1
+        },
+        {
+            "sourceID": "request",
+            "attributes": {},
+            "targetID": "form-data",
+            "size": 1
+        },
+        {
+            "sourceID": "event-stream",
+            "attributes": {},
+            "targetID": "through",
+            "size": 1
+        },
+        {
+            "sourceID": "event-stream",
+            "attributes": {},
+            "targetID": "duplexer",
+            "size": 1
+        },
+        {
+            "sourceID": "event-stream",
+            "attributes": {},
+            "targetID": "split",
+            "size": 1
+        },
+        {
+            "sourceID": "event-stream",
+            "attributes": {},
+            "targetID": "pause-stream",
+            "size": 1
+        },
+        {
+            "sourceID": "event-stream",
+            "attributes": {},
+            "targetID": "map-stream",
+            "size": 1
+        },
+        {
+            "sourceID": "event-stream",
+            "attributes": {},
+            "targetID": "stream-combiner",
+            "size": 1
+        },
+        {
+            "sourceID": "event-stream",
+            "attributes": {},
+            "targetID": "from",
+            "size": 1
+        },
+        {
+            "sourceID": "log4js",
+            "attributes": {},
+            "targetID": "async",
+            "size": 1
+        },
+        {
+            "sourceID": "log4js",
+            "attributes": {},
+            "targetID": "semver",
+            "size": 1
+        },
+        {
+            "sourceID": "log4js",
+            "attributes": {},
+            "targetID": "readable-stream",
+            "size": 1
+        },
+        {
+            "sourceID": "optimist",
+            "attributes": {},
+            "targetID": "wordwrap",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "commander",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "glob",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "debug",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "jade",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "growl",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "ms",
+            "size": 1
+        },
+        {
+            "sourceID": "mocha",
+            "attributes": {},
+            "targetID": "diff",
+            "size": 1
+        },
+        {
+            "sourceID": "prompt",
+            "attributes": {},
+            "targetID": "read",
+            "size": 1
+        },
+        {
+            "sourceID": "prompt",
+            "attributes": {},
+            "targetID": "pkginfo",
+            "size": 1
+        },
+        {
+            "sourceID": "prompt",
+            "attributes": {},
+            "targetID": "winston",
+            "size": 1
+        },
+        {
+            "sourceID": "prompt",
+            "attributes": {},
+            "targetID": "utile",
+            "size": 1
+        },
+        {
+            "sourceID": "prompt",
+            "attributes": {},
+            "targetID": "revalidator",
+            "size": 1
+        },
+        {
+            "sourceID": "commander",
+            "attributes": {},
+            "targetID": "keypress",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "lodash",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "dateformat",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "async",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "underscore.string",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "colors",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "minimatch",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "nopt",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "rimraf",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "which",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "glob",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "coffee-script",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "findup-sync",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "eventemitter2",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "iconv-lite",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt",
+            "attributes": {},
+            "targetID": "js-yaml",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-less",
+            "attributes": {},
+            "targetID": "less",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-less",
+            "attributes": {},
+            "targetID": "grunt-lib-contrib",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-jshint",
+            "attributes": {},
+            "targetID": "jshint",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-uglify",
+            "attributes": {},
+            "targetID": "uglify-js",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-uglify",
+            "attributes": {},
+            "targetID": "grunt-lib-contrib",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-watch",
+            "attributes": {},
+            "targetID": "gaze",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-watch",
+            "attributes": {},
+            "targetID": "tiny-lr",
+            "size": 1
+        },
+        {
+            "sourceID": "http-proxy",
+            "attributes": {},
+            "targetID": "optimist",
+            "size": 1
+        },
+        {
+            "sourceID": "http-proxy",
+            "attributes": {},
+            "targetID": "colors",
+            "size": 1
+        },
+        {
+            "sourceID": "http-proxy",
+            "attributes": {},
+            "targetID": "pkginfo",
+            "size": 1
+        },
+        {
+            "sourceID": "http-proxy",
+            "attributes": {},
+            "targetID": "utile",
+            "size": 1
+        },
+        {
+            "sourceID": "mongodb",
+            "attributes": {},
+            "targetID": "bson",
+            "size": 1
+        },
+        {
+            "sourceID": "minimatch",
+            "attributes": {},
+            "targetID": "lru-cache",
+            "size": 1
+        },
+        {
+            "sourceID": "nopt",
+            "attributes": {},
+            "targetID": "abbrev",
+            "size": 1
+        },
+        {
+            "sourceID": "rimraf",
+            "attributes": {},
+            "targetID": "graceful-fs",
+            "size": 1
+        },
+        {
+            "sourceID": "tar",
+            "attributes": {},
+            "targetID": "fstream",
+            "size": 1
+        },
+        {
+            "sourceID": "tar",
+            "attributes": {},
+            "targetID": "inherits",
+            "size": 1
+        },
+        {
+            "sourceID": "fstream",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "fstream",
+            "attributes": {},
+            "targetID": "graceful-fs",
+            "size": 1
+        },
+        {
+            "sourceID": "fstream",
+            "attributes": {},
+            "targetID": "rimraf",
+            "size": 1
+        },
+        {
+            "sourceID": "fstream",
+            "attributes": {},
+            "targetID": "inherits",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "request",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "semver",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "graceful-fs",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "minimatch",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "nopt",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "rimraf",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "which",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "tar",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "fstream",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "npmlog",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "glob",
+            "size": 1
+        },
+        {
+            "sourceID": "node-gyp",
+            "attributes": {},
+            "targetID": "osenv",
+            "size": 1
+        },
+        {
+            "sourceID": "fstream-npm",
+            "attributes": {},
+            "targetID": "inherits",
+            "size": 1
+        },
+        {
+            "sourceID": "fstream-npm",
+            "attributes": {},
+            "targetID": "fstream-ignore",
+            "size": 1
+        },
+        {
+            "sourceID": "npmlog",
+            "attributes": {},
+            "targetID": "ansi",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "request",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "semver",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "slide",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "graceful-fs",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "rimraf",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "npmlog",
+            "size": 1
+        },
+        {
+            "sourceID": "npm-registry-client",
+            "attributes": {},
+            "targetID": "retry",
+            "size": 1
+        },
+        {
+            "sourceID": "read-package-json",
+            "attributes": {},
+            "targetID": "graceful-fs",
+            "size": 1
+        },
+        {
+            "sourceID": "read-package-json",
+            "attributes": {},
+            "targetID": "lru-cache",
+            "size": 1
+        },
+        {
+            "sourceID": "read-package-json",
+            "attributes": {},
+            "targetID": "glob",
+            "size": 1
+        },
+        {
+            "sourceID": "glob",
+            "attributes": {},
+            "targetID": "graceful-fs",
+            "size": 1
+        },
+        {
+            "sourceID": "glob",
+            "attributes": {},
+            "targetID": "minimatch",
+            "size": 1
+        },
+        {
+            "sourceID": "glob",
+            "attributes": {},
+            "targetID": "inherits",
+            "size": 1
+        },
+        {
+            "sourceID": "npmconf",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "npmconf",
+            "attributes": {},
+            "targetID": "semver",
+            "size": 1
+        },
+        {
+            "sourceID": "npmconf",
+            "attributes": {},
+            "targetID": "ini",
+            "size": 1
+        },
+        {
+            "sourceID": "npmconf",
+            "attributes": {},
+            "targetID": "nopt",
+            "size": 1
+        },
+        {
+            "sourceID": "npmconf",
+            "attributes": {},
+            "targetID": "inherits",
+            "size": 1
+        },
+        {
+            "sourceID": "npmconf",
+            "attributes": {},
+            "targetID": "osenv",
+            "size": 1
+        },
+        {
+            "sourceID": "npmconf",
+            "attributes": {},
+            "targetID": "once",
+            "size": 1
+        },
+        {
+            "sourceID": "findup-sync",
+            "attributes": {},
+            "targetID": "lodash",
+            "size": 1
+        },
+        {
+            "sourceID": "findup-sync",
+            "attributes": {},
+            "targetID": "glob",
+            "size": 1
+        },
+        {
+            "sourceID": "node-minify",
+            "attributes": {},
+            "targetID": "uglify-js",
+            "size": 1
+        },
+        {
+            "sourceID": "node-minify",
+            "attributes": {},
+            "targetID": "sqwish",
+            "size": 1
+        },
+        {
+            "sourceID": "bal-util",
+            "attributes": {},
+            "targetID": "extendr",
+            "size": 1
+        },
+        {
+            "sourceID": "bal-util",
+            "attributes": {},
+            "targetID": "taskgroup",
+            "size": 1
+        },
+        {
+            "sourceID": "bal-util",
+            "attributes": {},
+            "targetID": "typechecker",
+            "size": 1
+        },
+        {
+            "sourceID": "extendr",
+            "attributes": {},
+            "targetID": "typechecker",
+            "size": 1
+        },
+        {
+            "sourceID": "taskgroup",
+            "attributes": {},
+            "targetID": "eventemitter2",
+            "size": 1
+        },
+        {
+            "sourceID": "underscorem",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "hubot",
+            "attributes": {},
+            "targetID": "express",
+            "size": 1
+        },
+        {
+            "sourceID": "hubot",
+            "attributes": {},
+            "targetID": "coffee-script",
+            "size": 1
+        },
+        {
+            "sourceID": "hubot",
+            "attributes": {},
+            "targetID": "optparse",
+            "size": 1
+        },
+        {
+            "sourceID": "hubot",
+            "attributes": {},
+            "targetID": "log",
+            "size": 1
+        },
+        {
+            "sourceID": "ndarray-ops",
+            "attributes": {},
+            "targetID": "ndarray",
+            "size": 1
+        },
+        {
+            "sourceID": "ndarray-ops",
+            "attributes": {},
+            "targetID": "cwise",
+            "size": 1
+        },
+        {
+            "sourceID": "typedarray-pool",
+            "attributes": {},
+            "targetID": "bit-twiddle",
+            "size": 1
+        },
+        {
+            "sourceID": "jade",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "jade",
+            "attributes": {},
+            "targetID": "commander",
+            "size": 1
+        },
+        {
+            "sourceID": "nodemailer",
+            "attributes": {},
+            "targetID": "simplesmtp",
+            "size": 1
+        },
+        {
+            "sourceID": "eco",
+            "attributes": {},
+            "targetID": "coffee-script",
+            "size": 1
+        },
+        {
+            "sourceID": "filed",
+            "attributes": {},
+            "targetID": "mime",
+            "size": 1
+        },
+        {
+            "sourceID": "flatiron",
+            "attributes": {},
+            "targetID": "optimist",
+            "size": 1
+        },
+        {
+            "sourceID": "flatiron",
+            "attributes": {},
+            "targetID": "prompt",
+            "size": 1
+        },
+        {
+            "sourceID": "flatiron",
+            "attributes": {},
+            "targetID": "pkginfo",
+            "size": 1
+        },
+        {
+            "sourceID": "flatiron",
+            "attributes": {},
+            "targetID": "director",
+            "size": 1
+        },
+        {
+            "sourceID": "flatiron",
+            "attributes": {},
+            "targetID": "broadway",
+            "size": 1
+        },
+        {
+            "sourceID": "winston",
+            "attributes": {},
+            "targetID": "async",
+            "size": 1
+        },
+        {
+            "sourceID": "winston",
+            "attributes": {},
+            "targetID": "request",
+            "size": 1
+        },
+        {
+            "sourceID": "winston",
+            "attributes": {},
+            "targetID": "colors",
+            "size": 1
+        },
+        {
+            "sourceID": "winston",
+            "attributes": {},
+            "targetID": "pkginfo",
+            "size": 1
+        },
+        {
+            "sourceID": "winston",
+            "attributes": {},
+            "targetID": "stack-trace",
+            "size": 1
+        },
+        {
+            "sourceID": "winston",
+            "attributes": {},
+            "targetID": "eyes",
+            "size": 1
+        },
+        {
+            "sourceID": "winston",
+            "attributes": {},
+            "targetID": "cycle",
+            "size": 1
+        },
+        {
+            "sourceID": "coffeekup",
+            "attributes": {},
+            "targetID": "coffee-script",
+            "size": 1
+        },
+        {
+            "sourceID": "stylus",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "stylus",
+            "attributes": {},
+            "targetID": "debug",
+            "size": 1
+        },
+        {
+            "sourceID": "stylus",
+            "attributes": {},
+            "targetID": "cssom",
+            "size": 1
+        },
+        {
+            "sourceID": "xml2json",
+            "attributes": {},
+            "targetID": "node-expat",
+            "size": 1
+        },
+        {
+            "sourceID": "nano",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "nano",
+            "attributes": {},
+            "targetID": "request",
+            "size": 1
+        },
+        {
+            "sourceID": "nano",
+            "attributes": {},
+            "targetID": "errs",
+            "size": 1
+        },
+        {
+            "sourceID": "nano",
+            "attributes": {},
+            "targetID": "follow",
+            "size": 1
+        },
+        {
+            "sourceID": "less",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "less",
+            "attributes": {},
+            "targetID": "request",
+            "size": 1
+        },
+        {
+            "sourceID": "less",
+            "attributes": {},
+            "targetID": "mime",
+            "size": 1
+        },
+        {
+            "sourceID": "less",
+            "attributes": {},
+            "targetID": "ycssmin",
+            "size": 1
+        },
+        {
+            "sourceID": "uglify-js",
+            "attributes": {},
+            "targetID": "async",
+            "size": 1
+        },
+        {
+            "sourceID": "uglify-js",
+            "attributes": {},
+            "targetID": "optimist",
+            "size": 1
+        },
+        {
+            "sourceID": "uglify-js",
+            "attributes": {},
+            "targetID": "source-map",
+            "size": 1
+        },
+        {
+            "sourceID": "clean-css",
+            "attributes": {},
+            "targetID": "commander",
+            "size": 1
+        },
+        {
+            "sourceID": "datetime",
+            "attributes": {},
+            "targetID": "vows",
+            "size": 1
+        },
+        {
+            "sourceID": "vows",
+            "attributes": {},
+            "targetID": "eyes",
+            "size": 1
+        },
+        {
+            "sourceID": "vows",
+            "attributes": {},
+            "targetID": "diff",
+            "size": 1
+        },
+        {
+            "sourceID": "docco",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "docco",
+            "attributes": {},
+            "targetID": "commander",
+            "size": 1
+        },
+        {
+            "sourceID": "docco",
+            "attributes": {},
+            "targetID": "marked",
+            "size": 1
+        },
+        {
+            "sourceID": "docco",
+            "attributes": {},
+            "targetID": "highlight.js",
+            "size": 1
+        },
+        {
+            "sourceID": "xml2js",
+            "attributes": {},
+            "targetID": "sax",
+            "size": 1
+        },
+        {
+            "sourceID": "libxmljs",
+            "attributes": {},
+            "targetID": "bindings",
+            "size": 1
+        },
+        {
+            "sourceID": "handlebars",
+            "attributes": {},
+            "targetID": "optimist",
+            "size": 1
+        },
+        {
+            "sourceID": "handlebars",
+            "attributes": {},
+            "targetID": "uglify-js",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "slide",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "nopt",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "inherits",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "glob",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "deep-equal",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "difflet",
+            "size": 1
+        },
+        {
+            "sourceID": "tap",
+            "attributes": {},
+            "targetID": "yamlish",
+            "size": 1
+        },
+        {
+            "sourceID": "walk",
+            "attributes": {},
+            "targetID": "forEachAsync",
+            "size": 1
+        },
+        {
+            "sourceID": "split",
+            "attributes": {},
+            "targetID": "through",
+            "size": 1
+        },
+        {
+            "sourceID": "memcached",
+            "attributes": {},
+            "targetID": "hashring",
+            "size": 1
+        },
+        {
+            "sourceID": "express-resource",
+            "attributes": {},
+            "targetID": "debug",
+            "size": 1
+        },
+        {
+            "sourceID": "express-resource",
+            "attributes": {},
+            "targetID": "lingo",
+            "size": 1
+        },
+        {
+            "sourceID": "express-resource",
+            "attributes": {},
+            "targetID": "methods",
+            "size": 1
+        },
+        {
+            "sourceID": "connect-assets",
+            "attributes": {},
+            "targetID": "snockets",
+            "size": 1
+        },
+        {
+            "sourceID": "knox",
+            "attributes": {},
+            "targetID": "mime",
+            "size": 1
+        },
+        {
+            "sourceID": "knox",
+            "attributes": {},
+            "targetID": "debug",
+            "size": 1
+        },
+        {
+            "sourceID": "knox",
+            "attributes": {},
+            "targetID": "xml2js",
+            "size": 1
+        },
+        {
+            "sourceID": "aws-sdk",
+            "attributes": {},
+            "targetID": "xml2js",
+            "size": 1
+        },
+        {
+            "sourceID": "aws-sdk",
+            "attributes": {},
+            "targetID": "xmlbuilder",
+            "size": 1
+        },
+        {
+            "sourceID": "fs-extra",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "fs-extra",
+            "attributes": {},
+            "targetID": "rimraf",
+            "size": 1
+        },
+        {
+            "sourceID": "fs-extra",
+            "attributes": {},
+            "targetID": "ncp",
+            "size": 1
+        },
+        {
+            "sourceID": "awssum",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "awssum",
+            "attributes": {},
+            "targetID": "xml2js",
+            "size": 1
+        },
+        {
+            "sourceID": "cradle",
+            "attributes": {},
+            "targetID": "request",
+            "size": 1
+        },
+        {
+            "sourceID": "cradle",
+            "attributes": {},
+            "targetID": "follow",
+            "size": 1
+        },
+        {
+            "sourceID": "cli-color",
+            "attributes": {},
+            "targetID": "es5-ext",
+            "size": 1
+        },
+        {
+            "sourceID": "hashish",
+            "attributes": {},
+            "targetID": "traverse",
+            "size": 1
+        },
+        {
+            "sourceID": "htmlparser2",
+            "attributes": {},
+            "targetID": "readable-stream",
+            "size": 1
+        },
+        {
+            "sourceID": "netmask",
+            "attributes": {},
+            "targetID": "coffee-script",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "async",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "request",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "mime",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "pkginfo",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "filed",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "xml2js",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "errs",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "through",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "eventemitter2",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "qs",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "utile",
+            "size": 1
+        },
+        {
+            "sourceID": "pkgcloud",
+            "attributes": {},
+            "targetID": "ip",
+            "size": 1
+        },
+        {
+            "sourceID": "mailparser",
+            "attributes": {},
+            "targetID": "mime",
+            "size": 1
+        },
+        {
+            "sourceID": "mailparser",
+            "attributes": {},
+            "targetID": "iconv",
+            "size": 1
+        },
+        {
+            "sourceID": "portfinder",
+            "attributes": {},
+            "targetID": "mkdirp",
+            "size": 1
+        },
+        {
+            "sourceID": "forever-monitor",
+            "attributes": {},
+            "targetID": "minimatch",
+            "size": 1
+        },
+        {
+            "sourceID": "forever-monitor",
+            "attributes": {},
+            "targetID": "watch",
+            "size": 1
+        },
+        {
+            "sourceID": "forever-monitor",
+            "attributes": {},
+            "targetID": "pkginfo",
+            "size": 1
+        },
+        {
+            "sourceID": "forever-monitor",
+            "attributes": {},
+            "targetID": "utile",
+            "size": 1
+        },
+        {
+            "sourceID": "forever-monitor",
+            "attributes": {},
+            "targetID": "broadway",
+            "size": 1
+        },
+        {
+            "sourceID": "passport",
+            "attributes": {},
+            "targetID": "pkginfo",
+            "size": 1
+        },
+        {
+            "sourceID": "passport",
+            "attributes": {},
+            "targetID": "pause",
+            "size": 1
+        },
+        {
+            "sourceID": "jshint",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "jshint",
+            "attributes": {},
+            "targetID": "minimatch",
+            "size": 1
+        },
+        {
+            "sourceID": "jshint",
+            "attributes": {},
+            "targetID": "cli",
+            "size": 1
+        },
+        {
+            "sourceID": "jshint",
+            "attributes": {},
+            "targetID": "shelljs",
+            "size": 1
+        },
+        {
+            "sourceID": "nib",
+            "attributes": {},
+            "targetID": "stylus",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-stylus",
+            "attributes": {},
+            "targetID": "stylus",
+            "size": 1
+        },
+        {
+            "sourceID": "grunt-contrib-stylus",
+            "attributes": {},
+            "targetID": "nib",
+            "size": 1
+        },
+        {
+            "sourceID": "phantom",
+            "attributes": {},
+            "targetID": "dnode",
+            "size": 1
+        },
+        {
+            "sourceID": "phantom",
+            "attributes": {},
+            "targetID": "shoe",
+            "size": 1
+        },
+        {
+            "sourceID": "jslint",
+            "attributes": {},
+            "targetID": "nopt",
+            "size": 1
+        },
+        {
+            "sourceID": "bufferstream",
+            "attributes": {},
+            "targetID": "buffertools",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "event-stream",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "optimist",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "inherits",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "through",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "duplexer",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "shell-quote",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "concat-stream",
+            "size": 1
+        },
+        {
+            "sourceID": "browserify",
+            "attributes": {},
+            "targetID": "JSONStream",
+            "size": 1
+        },
+        {
+            "sourceID": "nodeunit",
+            "attributes": {},
+            "targetID": "tap",
+            "size": 1
+        },
+        {
+            "sourceID": "vine",
+            "attributes": {},
+            "targetID": "outcome",
+            "size": 1
+        },
+        {
+            "sourceID": "findit",
+            "attributes": {},
+            "targetID": "seq",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "underscore",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "async",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "structr",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "step",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "outcome",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "dref",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "toarray",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "sift",
+            "size": 1
+        },
+        {
+            "sourceID": "plugin",
+            "attributes": {},
+            "targetID": "resolve",
+            "size": 1
+        },
+        {
+            "sourceID": "sk",
+            "attributes": {},
+            "targetID": "dateformat",
+            "size": 1
+        },
+        {
+            "sourceID": "sk",
+            "attributes": {},
+            "targetID": "colors",
+            "size": 1
+        }
+    ]
+}
